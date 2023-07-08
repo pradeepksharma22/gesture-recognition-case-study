@@ -81,5 +81,7 @@ We selected Conv3D model#1 as the best performing model over CNN+LSTM and CNN+GR
 
 
 ## Contributors
+- <a href="https://github.com/pradeepksharma22/">Pradeep Kumar Sharma</a>
 - <a href="https://github.com/AparnaMehrotra/">Aparna Mehrotra</a>
+
 
